@@ -3,7 +3,7 @@
 Proyecto de la **Semana 5 – Integrando nuestro frontend con backend**
 Asignatura: Desarrollo Frontend II (PFY2202) · Autor: _Bayro Rañileo_
 
-📁 **Repositorio:** `https://github.com/TU-USUARIO/viajes-bayro-ranileo-PFY2202`
+📁 **Repositorio:** `https://github.com/BayroBastian2025/Exp2_S5_Bayro_B_Ra-ileo.git`
 🌐 **Sitio publicado (gh-pages):** `https://bayrobastian2025.github.io/Exp2_S5_Bayro_B_Ra-ileo/`
 
 Nómade es una aplicación para planificar viajes: el usuario explora destinos del mundo, elige uno y revisa los
