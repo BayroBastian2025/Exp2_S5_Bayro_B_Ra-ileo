@@ -1,0 +1,1 @@
+import{j as e}from"./index-DfI2cSJa.js";function c({titulo:r,texto:s,children:n}){return e.jsxs("header",{className:"encabezado",children:[e.jsxs("div",{children:[e.jsx("h1",{children:r}),s&&e.jsx("p",{children:s})]}),n]})}export{c as E};

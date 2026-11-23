@@ -1,0 +1,1 @@
+import{j as o,L as a}from"./index-DfI2cSJa.js";import{E as t}from"./EstadoVacio-D58cL6Ib.js";function i(){return o.jsx(t,{icono:"🗺️",titulo:"Error 404: ruta no encontrada",texto:"La página que buscas no existe o fue movida.",children:o.jsx(a,{to:"/",className:"boton",children:"Volver al inicio"})})}export{i as default};

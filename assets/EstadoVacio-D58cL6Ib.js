@@ -1,0 +1,1 @@
+import{j as s}from"./index-DfI2cSJa.js";function d({icono:e="🧳",titulo:i,texto:a,children:r}){return s.jsxs("div",{className:"estado",children:[s.jsx("span",{className:"estado__icono","aria-hidden":"true",children:e}),s.jsx("h2",{children:i}),a&&s.jsx("p",{children:a}),r]})}export{d as E};

@@ -1,0 +1,1 @@
+import{j as a}from"./index-DfI2cSJa.js";const b={primario:"",borde:"boton--borde",elegido:"boton--elegido"};function m({variante:o="primario",bloque:t=!1,className:e="",type:n="button",children:r,...s}){const i=["boton",b[o],t&&"boton--bloque",e].filter(Boolean).join(" ");return a.jsx("button",{type:n,className:i,...s,children:r})}export{m as B};
