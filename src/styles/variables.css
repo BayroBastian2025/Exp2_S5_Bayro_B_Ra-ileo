@@ -1,0 +1,21 @@
+/* Tokens de diseño: tema oscuro "noche de viaje" con acento ámbar. */
+:root {
+  --bg: #0b1220;
+  --bg-elevado: #121a2e;
+  --bg-tarjeta: #162038;
+  --borde: #25324f;
+  --texto: #e8edf7;
+  --texto-suave: #98a5c0;
+  --acento: #fbbf24;
+  --acento-oscuro: #d99a06;
+  --ok: #34d399;
+  --alerta: #fb923c;
+  --peligro: #f87171;
+  --radio: 16px;
+  --radio-chico: 10px;
+  --sombra: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --fuente-titulo: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --fuente-texto: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ancho: 1120px;
+  --alto-tabs: 64px;
+}
