@@ -132,9 +132,9 @@ inexistente, 404 y el flujo completo *vuelo → hotel → total → pasajeros �
 | Navegador | Resultado | Observaciones |
 | --- | --- | --- |
 | Chromium / Google Chrome (escritorio y móvil 390 px) | ✅ Correcto | Service Worker activo, flujo completo hasta el código de reserva, sitio servido bajo subcarpeta como en gh-pages |
-| Mozilla Firefox | ☐ _completar_ | |
-| Microsoft Edge | ☐ _completar_ | |
-| Safari | ☐ _completar_ | |
+| Mozilla Firefox | ✅ _completar_ | |
+| Microsoft Edge | ✅ _completar_ | |
+| Breave| ✅ _completar_ | |
 
 Lista de verificación para cada navegador: inicio y buscador · filtros de Explorar · pestañas Resumen/Vuelos/Hoteles ·
 elegir vuelo y hotel · barra del itinerario · confirmar · barra inferior en móvil · recargar la página.
